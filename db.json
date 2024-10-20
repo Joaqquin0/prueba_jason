@@ -2,24 +2,24 @@
   "products": [
     {
       "id": 1,
-      "name": "Product 1",
-      "description": "Description for Product 1",
-      "price": 19.99,
-      "image": "https://example.com/images/product1.jpg"
+      "name": "Handmade Ceramic Vase",
+      "description": "A beautifully crafted ceramic vase with intricate patterns, perfect for home decor. This vase is made by skilled artisans using traditional techniques passed down through generations. The vibrant colors and unique design make it a standout piece in any room.",
+      "price": 45.00,
+      "image": "https://example.com/images/ceramic_vase.jpg"
     },
     {
       "id": 2,
-      "name": "Product 2",
-      "description": "Description for Product 2",
-      "price": 29.99,
-      "image": "https://example.com/images/product2.jpg"
+      "name": "Woven Basket",
+      "description": "A sturdy and stylish woven basket made from natural fibers, ideal for storage or as a decorative piece. Each basket is handwoven by local artisans, ensuring that no two pieces are exactly alike. The natural materials and craftsmanship provide a rustic charm to your home.",
+      "price": 30.00,
+      "image": "https://example.com/images/woven_basket.jpg"
     },
     {
       "id": 3,
-      "name": "Product 3",
-      "description": "Description for Product 3",
-      "price": 39.99,
-      "image": "https://example.com/images/product3.jpg"
+      "name": "Hand-painted Wooden Figurine",
+      "description": "A unique hand-painted wooden figurine, showcasing traditional craftsmanship and vibrant colors. This figurine is meticulously carved and painted by hand, making it a one-of-a-kind piece. It is perfect for adding a touch of cultural heritage to your decor.",
+      "price": 25.00,
+      "image": "https://example.com/images/wooden_figurine.jpg"
     }
   ]
 }
