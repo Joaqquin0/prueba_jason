@@ -5,21 +5,21 @@
       "name": "Handmade Ceramic Vase",
       "description": "A beautifully crafted ceramic vase with intricate patterns, perfect for home decor. This vase is made by skilled artisans using traditional techniques passed down through generations. The vibrant colors and unique design make it a standout piece in any room.",
       "price": 45.00,
-      "image": "https://example.com/images/ceramic_vase.jpg"
+      "image": "https://tienda.figurasperuanas.com/wp/wp-content/uploads/2023/01/huaco-recuay-scaled-e1675222609239.jpg"
     },
     {
       "id": 2,
       "name": "Woven Basket",
       "description": "A sturdy and stylish woven basket made from natural fibers, ideal for storage or as a decorative piece. Each basket is handwoven by local artisans, ensuring that no two pieces are exactly alike. The natural materials and craftsmanship provide a rustic charm to your home.",
       "price": 30.00,
-      "image": "https://example.com/images/woven_basket.jpg"
+      "image": "https://mad.com.pe/wp-content/uploads/2023/04/10-e1595290024179.jpg"
     },
     {
       "id": 3,
       "name": "Hand-painted Wooden Figurine",
       "description": "A unique hand-painted wooden figurine, showcasing traditional craftsmanship and vibrant colors. This figurine is meticulously carved and painted by hand, making it a one-of-a-kind piece. It is perfect for adding a touch of cultural heritage to your decor.",
       "price": 25.00,
-      "image": "https://example.com/images/wooden_figurine.jpg"
+      "image": "https://tienda.figurasperuanas.com/wp/wp-content/uploads/2023/12/3-expo-incas-1920x1080-1-1024x576-1-e1701928234206.jpg"
     }
   ]
 }
