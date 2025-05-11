@@ -1,25 +1,60 @@
 {
-  "products": [
-    {
-      "id": 1,
-      "name": "Handmade Ceramic Vase",
-      "description": "A beautifully crafted ceramic vase with intricate patterns, perfect for home decor. This vase is made by skilled artisans using traditional techniques passed down through generations. The vibrant colors and unique design make it a standout piece in any room.",
-      "price": 45.00,
-      "image": "https://tienda.figurasperuanas.com/wp/wp-content/uploads/2023/01/huaco-recuay-scaled-e1675222609239.jpg"
-    },
-    {
-      "id": 2,
-      "name": "Woven Basket",
-      "description": "A sturdy and stylish woven basket made from natural fibers, ideal for storage or as a decorative piece. Each basket is handwoven by local artisans, ensuring that no two pieces are exactly alike. The natural materials and craftsmanship provide a rustic charm to your home.",
-      "price": 30.00,
-      "image": "https://mad.com.pe/wp-content/uploads/2023/04/10-e1595290024179.jpg"
-    },
-    {
-      "id": 3,
-      "name": "Hand-painted Wooden Figurine",
-      "description": "A unique hand-painted wooden figurine, showcasing traditional craftsmanship and vibrant colors. This figurine is meticulously carved and painted by hand, making it a one-of-a-kind piece. It is perfect for adding a touch of cultural heritage to your decor.",
-      "price": 25.00,
-      "image": "https://tienda.figurasperuanas.com/wp/wp-content/uploads/2023/12/3-expo-incas-1920x1080-1-1024x576-1-e1701928234206.jpg"
-    }
-  ]
+  "water_requests": [
+  {
+    "id": 1,
+    "resident_id": 101,
+    "provider_id": 201,
+    "requested_liters": "30",
+    "status": "pending",
+    "delivered_at": null
+  },
+  {
+    "id": 2,
+    "resident_id": 102,
+    "provider_id": 202,
+    "requested_liters": "45",
+    "status": "delivered",
+    "delivered_at": "2025-05-10T09:15:00"
+  },
+  {
+    "id": 3,
+    "resident_id": 103,
+    "provider_id": 203,
+    "requested_liters": "60",
+    "status": "cancelled",
+    "delivered_at": null
+  },
+  {
+    "id": 4,
+    "resident_id": 104,
+    "provider_id": 204,
+    "requested_liters": "50",
+    "status": "pending",
+    "delivered_at": null
+  },
+  {
+    "id": 5,
+    "resident_id": 105,
+    "provider_id": 201,
+    "requested_liters": "25",
+    "status": "delivered",
+    "delivered_at": "2025-05-09T17:45:00"
+  },
+  {
+    "id": 6,
+    "resident_id": 106,
+    "provider_id": 202,
+    "requested_liters": "40",
+    "status": "delivered",
+    "delivered_at": "2025-05-10T12:00:00"
+  },
+  {
+    "id": 7,
+    "resident_id": 107,
+    "provider_id": 203,
+    "requested_liters": "55",
+    "status": "pending",
+    "delivered_at": null
+  }
+]
 }
