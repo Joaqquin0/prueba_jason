@@ -1,1 +1,204 @@
-
+{
+  "water_requests": [
+    {
+      "id": 1,
+      "resident_id": 101,
+      "provider_id": 201,
+      "requested_liters": 30,
+      "status": "Received",
+      "delivered_at": null
+    },
+    {
+      "id": 2,
+      "resident_id": 102,
+      "provider_id": 202,
+      "requested_liters": 45,
+      "status": "In Progress",
+      "delivered_at": "2025-05-10T09:15:00"
+    },
+    {
+      "id": 3,
+      "resident_id": 103,
+      "provider_id": 203,
+      "requested_liters": 60,
+      "status": "Received",
+      "delivered_at": null
+    },
+    {
+      "id": 4,
+      "resident_id": 104,
+      "provider_id": 204,
+      "requested_liters": 50,
+      "status": "Received",
+      "delivered_at": null
+    },
+    {
+      "id": 5,
+      "resident_id": 105,
+      "provider_id": 201,
+      "requested_liters": 25,
+      "status": "Closed",
+      "delivered_at": "2025-05-09T17:45:00"
+    },
+    {
+      "id": 6,
+      "resident_id": 106,
+      "provider_id": 202,
+      "requested_liters": 40,
+      "status": "Closed",
+      "delivered_at": "2025-05-10T12:00:00"
+    },
+    {
+      "id": 7,
+      "resident_id": 107,
+      "provider_id": 203,
+      "requested_liters": 55,
+      "status": "In Progress",
+      "delivered_at": null
+    },
+    {
+      "id": 8,
+      "resident_id": 108,
+      "provider_id": 204,
+      "requested_liters": 35,
+      "status": "Received",
+      "delivered_at": "2025-05-11T08:30:00"
+    },
+    {
+      "id": 9,
+      "resident_id": 109,
+      "provider_id": 201,
+      "requested_liters": 20,
+      "status": "In Progress",
+      "delivered_at": null
+    },
+    {
+      "id": 10,
+      "resident_id": 110,
+      "provider_id": 202,
+      "requested_liters": 45,
+      "status": "Received",
+      "delivered_at": "2025-05-11T13:00:00"
+    },
+    {
+      "id": 11,
+      "resident_id": 111,
+      "provider_id": 203,
+      "requested_liters": 50,
+      "status": "In Progress",
+      "delivered_at": null
+    },
+    {
+      "id": 12,
+      "resident_id": 112,
+      "provider_id": 204,
+      "requested_liters": 60,
+      "status": "Closed",
+      "delivered_at": "2025-05-12T10:15:00"
+    },
+    {
+      "id": 13,
+      "resident_id": 113,
+      "provider_id": 201,
+      "requested_liters": 38,
+      "status": "In Progress",
+      "delivered_at": null
+    },
+    {
+      "id": 14,
+      "resident_id": 114,
+      "provider_id": 202,
+      "requested_liters": 42,
+      "status": "In Progress",
+      "delivered_at": "2025-05-12T11:00:00"
+    },
+    {
+      "id": 15,
+      "resident_id": 115,
+      "provider_id": 203,
+      "requested_liters": 47,
+      "status": "Received",
+      "delivered_at": null
+    },
+    {
+      "id": 16,
+      "resident_id": 116,
+      "provider_id": 204,
+      "requested_liters": 53,
+      "status": "delivered",
+      "delivered_at": "2025-05-12T15:30:00"
+    },
+    {
+      "id": 17,
+      "resident_id": 117,
+      "provider_id": 201,
+      "requested_liters": 29,
+      "status": "delivered",
+      "delivered_at": "2025-05-12T16:00:00"
+    },
+    {
+      "id": 18,
+      "resident_id": 118,
+      "provider_id": 202,
+      "requested_liters": 36,
+      "status": "pending",
+      "delivered_at": null
+    },
+    {
+      "id": 19,
+      "resident_id": 119,
+      "provider_id": 203,
+      "requested_liters": 49,
+      "status": "delivered",
+      "delivered_at": "2025-05-13T09:00:00"
+    },
+    {
+      "id": 20,
+      "resident_id": 120,
+      "provider_id": 204,
+      "requested_liters": 44,
+      "status": "cancelled",
+      "delivered_at": null
+    },
+    {
+      "id": 21,
+      "resident_id": 121,
+      "provider_id": 201,
+      "requested_liters": 31,
+      "status": "pending",
+      "delivered_at": null
+    },
+    {
+      "id": 22,
+      "resident_id": 122,
+      "provider_id": 202,
+      "requested_liters": 41,
+      "status": "delivered",
+      "delivered_at": "2025-05-13T12:30:00"
+    },
+    {
+      "id": 23,
+      "resident_id": 123,
+      "provider_id": 203,
+      "requested_liters": 37,
+      "status": "pending",
+      "delivered_at": null
+    },
+    {
+      "id": 24,
+      "resident_id": 124,
+      "provider_id": 204,
+      "requested_liters": 50,
+      "status": "delivered",
+      "delivered_at": "2025-05-13T14:00:00"
+    },
+    {
+      "id": 25,
+      "resident_id": 125,
+      "provider_id": 201,
+      "requested_liters": 33,
+      "status": "pending",
+      "delivered_at": null
+    }
+  ]
+}
