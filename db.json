@@ -47,6 +47,78 @@
     "requested_liters": 40,
     "status": "delivered",
     "delivered_at": "2025-05-10T12:00:00"
+  },
+  {
+    "id": 7,
+    "resident_id": 107,
+    "provider_id": 203,
+    "requested_liters": 55,
+    "status": "pending",
+    "delivered_at": null
+  },
+    {
+    "id": 8,
+    "resident_id": 102,
+    "provider_id": 202,
+    "requested_liters": 45,
+    "status": "delivered",
+    "delivered_at": "2025-05-10T09:15:00"
+  },
+    {
+    "id": 9,
+    "resident_id": 102,
+    "provider_id": 202,
+    "requested_liters": 45,
+    "status": "delivered",
+    "delivered_at": "2025-05-10T09:15:00"
+  },
+    {
+    "id": 10,
+    "resident_id": 102,
+    "provider_id": 202,
+    "requested_liters": 45,
+    "status": "delivered",
+    "delivered_at": "2025-05-10T09:15:00"
+  },
+    {
+    "id": 10,
+    "resident_id": 102,
+    "provider_id": 202,
+    "requested_liters": 45,
+    "status": "delivered",
+    "delivered_at": "2025-05-10T09:15:00"
+  },
+    {
+    "id": 10,
+    "resident_id": 102,
+    "provider_id": 202,
+    "requested_liters": 45,
+    "status": "delivered",
+    "delivered_at": "2025-05-10T09:15:00"
+  },
+    {
+    "id": 10,
+    "resident_id": 102,
+    "provider_id": 202,
+    "requested_liters": 45,
+    "status": "delivered",
+    "delivered_at": "2025-05-10T09:15:00"
+  },
+    {
+    "id": 10,
+    "resident_id": 102,
+    "provider_id": 202,
+    "requested_liters": 45,
+    "status": "delivered",
+    "delivered_at": "2025-05-10T09:15:00"
+  },
+    {
+    "id": 10,
+    "resident_id": 102,
+    "provider_id": 202,
+    "requested_liters": 45,
+    "status": "delivered",
+    "delivered_at": "2025-05-10T09:15:00"
   }
 ]
 }
