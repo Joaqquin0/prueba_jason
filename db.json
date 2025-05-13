@@ -200,5 +200,97 @@
       "status": "pending",
       "delivered_at": null
     }
+  ],
+  "providers": [
+    {
+      "id": 1,
+      "tax_name": "Proveedor Uno S.A.",
+      "profile_id": 101,
+      "user_id": 1001,
+      "ruc": "20123456789",
+      "phone": 987654321,
+      "sensors_number": 15
+    },
+    {
+      "id": 2,
+      "tax_name": "Servicios Tecnológicos S.R.L.",
+      "profile_id": 102,
+      "user_id": 1002,
+      "ruc": "20198765432",
+      "phone": 912345678,
+      "sensors_number": 30
+    },
+    {
+      "id": 3,
+      "tax_name": "Innovación Industrial SAC",
+      "profile_id": 103,
+      "user_id": 1003,
+      "ruc": "20567891234",
+      "phone": 945612378,
+      "sensors_number": 25
+    },
+    {
+      "id": 4,
+      "tax_name": "Soluciones Integrales S.A.C.",
+      "profile_id": 104,
+      "user_id": 1004,
+      "ruc": "20654321987",
+      "phone": 976123854,
+      "sensors_number": 10
+    },
+    {
+      "id": 5,
+      "tax_name": "Electro Servicios EIRL",
+      "profile_id": 105,
+      "user_id": 1005,
+      "ruc": "20234567891",
+      "phone": 987123645,
+      "sensors_number": 20
+    },
+    {
+      "id": 6,
+      "tax_name": "Global Tech Corp",
+      "profile_id": 106,
+      "user_id": 1006,
+      "ruc": "20345678912",
+      "phone": 978654312,
+      "sensors_number": 18
+    },
+    {
+      "id": 7,
+      "tax_name": "Redes y Sistemas SAC",
+      "profile_id": 107,
+      "user_id": 1007,
+      "ruc": "20456789123",
+      "phone": 991234567,
+      "sensors_number": 22
+    },
+    {
+      "id": 8,
+      "tax_name": "Tecnología Avanzada S.A.",
+      "profile_id": 108,
+      "user_id": 1008,
+      "ruc": "20765432109",
+      "phone": 965432178,
+      "sensors_number": 17
+    },
+    {
+      "id": 9,
+      "tax_name": "Integraciones Digitales S.R.L.",
+      "profile_id": 109,
+      "user_id": 1009,
+      "ruc": "20812345678",
+      "phone": 989765432,
+      "sensors_number": 27
+    },
+    {
+      "id": 10,
+      "tax_name": "Soluciones IoT Perú SAC",
+      "profile_id": 110,
+      "user_id": 1010,
+      "ruc": "20987654321",
+      "phone": 974563218,
+      "sensors_number": 12
+    }
   ]
 }
